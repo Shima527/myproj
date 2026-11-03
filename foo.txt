@@ -5,3 +5,4 @@ foobar3
 foobar4
 foobar5
 foobar6
+foobarConflictMain
