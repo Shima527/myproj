@@ -6,3 +6,6 @@ foobar4
 foobar5
 foobar6
 foobarConflictMain
+foobarConflictMain
+foobarConflictBr-a
+foobar9
