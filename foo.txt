@@ -9,3 +9,4 @@ foobarConflictMain
 foobarConflictMain
 foobarConflictBr-a
 foobar9
+foobarConflictBr-a
