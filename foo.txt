@@ -8,5 +8,7 @@ foobar6
 foobarConflictMain
 foobarConflictMain
 foobarConflictBr-a
+foobar7
+foobar8
 foobar9
 foobarConflictBr-a
